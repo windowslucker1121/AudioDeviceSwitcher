@@ -1,3 +1,6 @@
 Software\Windows\.idea
 Software\Windows\AudioDeviceSwitcher\bin
 Software\Windows\AudioDeviceSwitcher\obj
+Software/Windows/.idea
+Software/Windows/AudioDeviceSwitcher/bin
+Software/Windows/AudioDeviceSwitcher/obj
